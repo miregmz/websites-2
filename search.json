@@ -1,16 +1,30 @@
 [
   {
+    "objectID": "sources.html",
+    "href": "sources.html",
+    "title": "Sources",
+    "section": "",
+    "text": "An overview of sources used in my project.\nThese are my sources. Here are some challenges. Quarto websites are awesome."
+  },
+  {
+    "objectID": "about.html#title-about",
+    "href": "about.html#title-about",
+    "title": "Websites 2",
+    "section": "title: “About”",
+    "text": "title: “About”"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "Websites 2",
+    "section": "About Me",
+    "text": "About Me\nMy name is Mireille Gomez, and I attend New College of Florida\nKane’s Free Data Science Bootcamp"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Billboard Graphic",
     "section": "",
     "text": "#| message: false"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
