@@ -3,3 +3,5 @@
 title: "About"
 
 ## About Me
+
+My name is Mireille Gomez, and I attend New COllege of Florida
